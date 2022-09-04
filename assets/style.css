@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+    .container{
+        width: 600px;
+        border: 10px solid ;
+        padding: 25px;
+        margin: 20px;
+        border-radius: 25px;
+      }
